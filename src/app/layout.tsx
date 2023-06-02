@@ -4,8 +4,8 @@ import "./globals.css";
 import Navbar from "./components/Navbar";
 
 export const metadata = {
-  title: "Dave's Blog",
-  description: "Created by Dave Gray",
+  title: "Latest headlines",
+  description: "Created by Michael Adejumo",
 };
 
 export default function RootLayout({
