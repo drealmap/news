@@ -37,7 +37,7 @@ This will generate an optimized build in the .next folder.
 To start the project in production mode, use the following command:
 
 ```npm start```
-This will serve the application on port 3000. You can access the application by visiting http://localhost:3000 in your browser.
+This will serve the application on port 3000. You can then access the application by visiting http://localhost:3000 in your browser.
 
 ## Testing
 To run the tests for the project, use the following command:
