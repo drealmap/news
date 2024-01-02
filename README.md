@@ -1,6 +1,6 @@
 # Next.js with TypeScript Project
 
-This is a project that uses Next.js and TypeScript with Redux toolkit to create a News site.
+This is a project that uses Next.js and TypeScript with Redux toolkit to create a News website.
 
 ## Prerequisites
 
